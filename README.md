@@ -51,11 +51,11 @@ I am actively adding my projects to GitHub! Here are a few highlights of what I'
 <table bordercolor="#66b2b2">
   <tr>
     <td width="50%" valign="top">
-      <h4>🤖 JobMailer Pro (Job Automation Bot)</h4>
-      <p>A production-ready desktop automation application built to send personalized job application emails to HR contacts without triggering spam filters.</p>
+      <h4>🤖 Job-Scraper-bot (Job Automation Bot)</h4>
+      <p>A production-ready backend automation application built to send personalized job postings and filer them as per profile to User through telegram at completely zero clould coast .</p>
       <ul>
-        <li><b>Tech Stack:</b> Python, CustomTkinter, SQLite, Jinja2, GitHub Actions</li>
-        <li><b>Features:</b> Modern dark UI, Resume PDF attachment, automated tracking of Sent/Failed contacts, headless CI/CD batch processing.</li>
+        <li><b>Tech Stack:</b> Python, CustomTkinter, SQLite, Jinja2, GitHub Actions,API's,AI integration</li>
+        <li><b>Features:</b> An automated AI-assisted job search bot I built for my own fresher/entry-level job hunt. It searches job boards, removes duplicates, reads job descriptions, filters only relevant Python Developer opportunities, writes the results to Google Sheets, and sends Telegram alerts with match scores and optional AI-drafted cover letters</li>
       </ul>
     </td>
     <td width="50%" valign="top">
